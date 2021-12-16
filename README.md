@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @crocodil12
+- 👋 Hi, I’m Daniel.Popa
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any project that will help me consolidate my python skills
+- 🌱 I’m currently learning html &css
+- 💞️ I’m looking to collaborate on any project that will help me consolidate my html&css skills
 - 📫 How to reach me popa.alexandru_daniel@yahoo.com
 
 <!---
